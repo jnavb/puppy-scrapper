@@ -1,0 +1,31 @@
+{
+  "name": "puppy-scr",
+  "version": "1.0.0",
+  "description": "Puppeter and CI PoC.",
+  "main": "base_url.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnavb/puppy-scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnavb/puppy-scrapper/issues"
+  },
+  "homepage": "https://github.com/jnavb/puppy-scrapper#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "puppeteer": "^1.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
