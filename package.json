@@ -21,6 +21,7 @@
   "homepage": "https://github.com/jnavb/puppy-scrapper#readme",
   "dependencies": {
     "chai": "^4.2.0",
+    "mocha": "^5.2.0",
     "puppeteer": "^1.9.0"
   },
   "devDependencies": {
