@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-
+// Mock test
 const grabData = async () => {
   const browser = await puppeteer.launch({
     headless: true,
